@@ -1,0 +1,30 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": true,
+  "closeExistingTabs": true,
+  "websites": [
+    {
+      "url": "http://stats.pingdom.com/d6vpeqqhblqk",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://datastudio.google.com/embed/reporting/cc416365-640e-44e3-bde6-b7c5bc594402/page/1M",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    },
+{
+      "url": "https://my.pingdom.com/3/visitor-insights/5eb913ea8e83fa001500007a/experience?token=5qvp269apb5c4cq4px90ipp0wfuvpnqs.4c56504",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://cloudwatch.amazonaws.com/dashboard.html?context=eyJSIjoidXMtZWFzdC0xIiwiRCI6ImN3LWRiLTg0MTA4MzA2Mzc0NiIsIlUiOiJ1cy1lYXN0LTFfUUV3WXZSODF0IiwiQyI6IjEzbWs5bnAyZ2NicWtlcTY2ZjZ2NXM2a244IiwiSSI6InVzLWVhc3QtMTplOThlODk3NS05NzU2LTQ4NDItYjQwNS05ZTk5ZDBlMTI1YTUiLCJPIjoiYXJuOmF3czppYW06Ojg0MTA4MzA2Mzc0Njpyb2xlL3NlcnZpY2Utcm9sZS9DV0RCU2hhcmluZy1QdWJsaWNSZWFkT25seUFjY2Vzcy00N0VXRFZJUiIsIk0iOiJQdWJsaWMifQ%3D%3D&dashboard=Activation-CloudWatch#dashboards:",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    }
+ 
+  ]
+}
